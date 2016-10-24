@@ -1,9 +1,12 @@
 ---
 title: Welcome to Jekyll!
-date: 2016-10-23 23:36:30 Z
+date: 2016-10-23 23:36:00 Z
 categories:
 - jekyll
 - update
+tags:
+- demotag1
+- demotag2
 layout: post
 ---
 
