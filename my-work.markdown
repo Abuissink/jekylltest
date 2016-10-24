@@ -5,6 +5,7 @@ layout: page
 ---
 
 Here are some past projects of mine:
+
 ##Community Work
 * [NZMOSA](http://nzmosa.org)
 

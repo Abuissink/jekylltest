@@ -30,6 +30,9 @@
 
       <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
+	<p>{% if jekyll.environment == 'development' %}
+  NOT LIVE - IN DEV
+{% endif %}</p>
       </div>
     </div>
 
